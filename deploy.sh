@@ -6,7 +6,7 @@ npm run build
 # navigate into the build output directory
 cd dist
 # if you are deploying to a custom domain
-echo 'www.portifolio.angelicogfa.com.br' > CNAME
+echo 'www.portfolio.angelicogfa.com.br' > CNAME
 git init
 git add -A
 git commit -m 'deploy'

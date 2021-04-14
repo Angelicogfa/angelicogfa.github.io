@@ -2,7 +2,7 @@
   <div>
     <b-navbar class="ml-auto" toggleable="sm" variant="dark" type="dark">
       <b-navbar-toggle target="nav-text-collapse"></b-navbar-toggle>
-      <b-navbar-brand href="#">Portifólio</b-navbar-brand>
+      <b-navbar-brand href="#">Portfolio</b-navbar-brand>
       <b-collapse id="nav-text-collapse"  is-nav>
         <b-navbar-nav>
           <b-nav-text  class="m-2">
